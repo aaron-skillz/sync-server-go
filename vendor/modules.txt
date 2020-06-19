@@ -1,0 +1,248 @@
+# github.com/RoaringBitmap/roaring v0.4.21
+github.com/RoaringBitmap/roaring
+# github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973
+github.com/beorn7/perks/quantile
+# github.com/blevesearch/bleve v0.8.2
+github.com/blevesearch/bleve
+github.com/blevesearch/bleve/analysis
+github.com/blevesearch/bleve/analysis/analyzer/keyword
+github.com/blevesearch/bleve/analysis/analyzer/standard
+github.com/blevesearch/bleve/analysis/datetime/flexible
+github.com/blevesearch/bleve/analysis/datetime/optional
+github.com/blevesearch/bleve/analysis/lang/en
+github.com/blevesearch/bleve/analysis/token/lowercase
+github.com/blevesearch/bleve/analysis/token/porter
+github.com/blevesearch/bleve/analysis/token/stop
+github.com/blevesearch/bleve/analysis/tokenizer/single
+github.com/blevesearch/bleve/analysis/tokenizer/unicode
+github.com/blevesearch/bleve/document
+github.com/blevesearch/bleve/geo
+github.com/blevesearch/bleve/index
+github.com/blevesearch/bleve/index/scorch
+github.com/blevesearch/bleve/index/scorch/mergeplan
+github.com/blevesearch/bleve/index/scorch/segment
+github.com/blevesearch/bleve/index/scorch/segment/zap
+github.com/blevesearch/bleve/index/store
+github.com/blevesearch/bleve/index/store/boltdb
+github.com/blevesearch/bleve/index/store/gtreap
+github.com/blevesearch/bleve/index/upsidedown
+github.com/blevesearch/bleve/mapping
+github.com/blevesearch/bleve/numeric
+github.com/blevesearch/bleve/registry
+github.com/blevesearch/bleve/search
+github.com/blevesearch/bleve/search/collector
+github.com/blevesearch/bleve/search/facet
+github.com/blevesearch/bleve/search/highlight
+github.com/blevesearch/bleve/search/highlight/format/html
+github.com/blevesearch/bleve/search/highlight/fragmenter/simple
+github.com/blevesearch/bleve/search/highlight/highlighter/html
+github.com/blevesearch/bleve/search/highlight/highlighter/simple
+github.com/blevesearch/bleve/search/query
+github.com/blevesearch/bleve/search/scorer
+github.com/blevesearch/bleve/search/searcher
+github.com/blevesearch/bleve/size
+# github.com/blevesearch/go-porterstemmer v1.0.2
+github.com/blevesearch/go-porterstemmer
+# github.com/blevesearch/segment v0.0.0-20160915185041-762005e7a34f
+github.com/blevesearch/segment
+# github.com/blevesearch/snowballstem v0.0.0-20200325004757-48afb64082dd
+github.com/blevesearch/snowballstem
+github.com/blevesearch/snowballstem/english
+# github.com/couchbase/vellum v0.0.0-20190829182332-ef2e028c01fd
+github.com/couchbase/vellum
+github.com/couchbase/vellum/levenshtein
+github.com/couchbase/vellum/regexp
+github.com/couchbase/vellum/utf8
+# github.com/davecgh/go-spew v1.1.1
+github.com/davecgh/go-spew/spew
+# github.com/dgrijalva/jwt-go v3.2.1-0.20200107013213-dc14462fd587+incompatible
+github.com/dgrijalva/jwt-go
+# github.com/edsrzf/mmap-go v1.0.0
+github.com/edsrzf/mmap-go
+# github.com/glycerine/go-unsnap-stream v0.0.0-20190901134440-81cf024a9e0a
+github.com/glycerine/go-unsnap-stream
+# github.com/gobuffalo/envy v1.7.0
+github.com/gobuffalo/envy
+# github.com/gobuffalo/packd v0.3.0
+github.com/gobuffalo/packd
+github.com/gobuffalo/packd/internal/takeon/github.com/markbates/errx
+# github.com/gobuffalo/packr v1.30.1
+github.com/gobuffalo/packr
+# github.com/gofrs/uuid v0.0.0-20190510204422-abfe1881e60e
+github.com/gofrs/uuid
+# github.com/golang/protobuf v1.3.5
+github.com/golang/protobuf/descriptor
+github.com/golang/protobuf/jsonpb
+github.com/golang/protobuf/proto
+github.com/golang/protobuf/protoc-gen-go/descriptor
+github.com/golang/protobuf/ptypes
+github.com/golang/protobuf/ptypes/any
+github.com/golang/protobuf/ptypes/duration
+github.com/golang/protobuf/ptypes/empty
+github.com/golang/protobuf/ptypes/struct
+github.com/golang/protobuf/ptypes/timestamp
+github.com/golang/protobuf/ptypes/wrappers
+# github.com/golang/snappy v0.0.1
+github.com/golang/snappy
+# github.com/gorilla/handlers v1.4.2
+github.com/gorilla/handlers
+# github.com/gorilla/mux v1.7.4
+github.com/gorilla/mux
+# github.com/gorilla/websocket v1.4.2
+github.com/gorilla/websocket
+# github.com/grpc-ecosystem/grpc-gateway v1.13.0
+github.com/grpc-ecosystem/grpc-gateway/internal
+github.com/grpc-ecosystem/grpc-gateway/protoc-gen-swagger/options
+github.com/grpc-ecosystem/grpc-gateway/runtime
+github.com/grpc-ecosystem/grpc-gateway/utilities
+# github.com/heroiclabs/nakama-common v1.5.1
+github.com/heroiclabs/nakama-common/api
+github.com/heroiclabs/nakama-common/rtapi
+github.com/heroiclabs/nakama-common/runtime
+# github.com/jackc/pgx v3.5.0+incompatible
+github.com/jackc/pgx
+github.com/jackc/pgx/chunkreader
+github.com/jackc/pgx/internal/sanitize
+github.com/jackc/pgx/pgio
+github.com/jackc/pgx/pgproto3
+github.com/jackc/pgx/pgtype
+github.com/jackc/pgx/stdlib
+# github.com/joho/godotenv v1.3.0
+github.com/joho/godotenv
+# github.com/m3db/prometheus_client_golang v0.8.1
+github.com/m3db/prometheus_client_golang/prometheus
+github.com/m3db/prometheus_client_golang/prometheus/promhttp
+# github.com/m3db/prometheus_client_model v0.1.0
+github.com/m3db/prometheus_client_model/go
+# github.com/m3db/prometheus_common v0.1.0
+github.com/m3db/prometheus_common/expfmt
+github.com/m3db/prometheus_common/internal/bitbucket.org/ww/goautoneg
+github.com/m3db/prometheus_common/model
+# github.com/m3db/prometheus_procfs v0.8.1
+github.com/m3db/prometheus_procfs
+# github.com/mattn/go-sqlite3 v1.10.0
+github.com/mattn/go-sqlite3
+# github.com/matttproud/golang_protobuf_extensions v1.0.1
+github.com/matttproud/golang_protobuf_extensions/pbutil
+# github.com/mschoch/smat v0.0.0-20160514031455-90eadee771ae
+github.com/mschoch/smat
+# github.com/philhofer/fwd v1.0.0
+github.com/philhofer/fwd
+# github.com/pkg/errors v0.9.1
+github.com/pkg/errors
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/proullon/ramsql v0.0.0-20181213202341-817cee58a244
+github.com/proullon/ramsql/driver
+github.com/proullon/ramsql/engine
+github.com/proullon/ramsql/engine/log
+github.com/proullon/ramsql/engine/parser
+github.com/proullon/ramsql/engine/protocol
+# github.com/rogpeppe/go-internal v1.3.1
+github.com/rogpeppe/go-internal/modfile
+github.com/rogpeppe/go-internal/module
+github.com/rogpeppe/go-internal/semver
+# github.com/rubenv/sql-migrate v0.0.0-20190902133344-8926f37f0bc1
+github.com/rubenv/sql-migrate
+github.com/rubenv/sql-migrate/sqlparse
+# github.com/steveyen/gtreap v0.0.0-20150807155958-0abe01ef9be2
+github.com/steveyen/gtreap
+# github.com/stretchr/testify v1.5.1
+github.com/stretchr/testify/assert
+# github.com/tinylib/msgp v1.1.2
+github.com/tinylib/msgp/msgp
+# github.com/uber-go/tally v3.3.16+incompatible
+github.com/uber-go/tally
+github.com/uber-go/tally/prometheus
+# github.com/willf/bitset v1.1.10
+github.com/willf/bitset
+# go.etcd.io/bbolt v1.3.4
+go.etcd.io/bbolt
+# go.uber.org/atomic v1.6.0
+go.uber.org/atomic
+# go.uber.org/multierr v1.5.0
+go.uber.org/multierr
+# go.uber.org/zap v1.14.1
+go.uber.org/zap
+go.uber.org/zap/buffer
+go.uber.org/zap/internal/bufferpool
+go.uber.org/zap/internal/color
+go.uber.org/zap/internal/exit
+go.uber.org/zap/zapcore
+# golang.org/x/crypto v0.0.0-20200323165209-0ec3e9974c59
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/blowfish
+golang.org/x/crypto/pbkdf2
+# golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
+golang.org/x/net/http/httpguts
+golang.org/x/net/http2
+golang.org/x/net/http2/hpack
+golang.org/x/net/idna
+golang.org/x/net/internal/timeseries
+golang.org/x/net/trace
+# golang.org/x/sys v0.0.0-20200323222414-85ca7c5b95cd
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/text v0.3.2
+golang.org/x/text/cases
+golang.org/x/text/internal
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/tag
+golang.org/x/text/language
+golang.org/x/text/runes
+golang.org/x/text/secure/bidirule
+golang.org/x/text/secure/precis
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+golang.org/x/text/width
+# google.golang.org/genproto v0.0.0-20200226201735-46b91f19d98c
+google.golang.org/genproto/googleapis/api/annotations
+google.golang.org/genproto/googleapis/api/httpbody
+google.golang.org/genproto/googleapis/rpc/status
+google.golang.org/genproto/protobuf/field_mask
+# google.golang.org/grpc v1.27.1
+google.golang.org/grpc
+google.golang.org/grpc/attributes
+google.golang.org/grpc/backoff
+google.golang.org/grpc/balancer
+google.golang.org/grpc/balancer/base
+google.golang.org/grpc/balancer/roundrobin
+google.golang.org/grpc/binarylog/grpc_binarylog_v1
+google.golang.org/grpc/codes
+google.golang.org/grpc/connectivity
+google.golang.org/grpc/credentials
+google.golang.org/grpc/credentials/internal
+google.golang.org/grpc/encoding
+google.golang.org/grpc/encoding/gzip
+google.golang.org/grpc/encoding/proto
+google.golang.org/grpc/grpclog
+google.golang.org/grpc/internal
+google.golang.org/grpc/internal/backoff
+google.golang.org/grpc/internal/balancerload
+google.golang.org/grpc/internal/binarylog
+google.golang.org/grpc/internal/buffer
+google.golang.org/grpc/internal/channelz
+google.golang.org/grpc/internal/envconfig
+google.golang.org/grpc/internal/grpcrand
+google.golang.org/grpc/internal/grpcsync
+google.golang.org/grpc/internal/resolver/dns
+google.golang.org/grpc/internal/resolver/passthrough
+google.golang.org/grpc/internal/syscall
+google.golang.org/grpc/internal/transport
+google.golang.org/grpc/keepalive
+google.golang.org/grpc/metadata
+google.golang.org/grpc/naming
+google.golang.org/grpc/peer
+google.golang.org/grpc/resolver
+google.golang.org/grpc/serviceconfig
+google.golang.org/grpc/stats
+google.golang.org/grpc/status
+google.golang.org/grpc/tap
+# gopkg.in/gorp.v1 v1.7.2
+gopkg.in/gorp.v1
+# gopkg.in/natefinch/lumberjack.v2 v2.0.0-20190411184413-94d9e492cc53
+gopkg.in/natefinch/lumberjack.v2
+# gopkg.in/yaml.v2 v2.2.8
+gopkg.in/yaml.v2
