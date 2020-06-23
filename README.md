@@ -16,9 +16,10 @@ heroiclabs.comheroiclabs.com
 .NET/Unity client guide - Nakama server
 Documentation for the Nakama realtime and social server for games and apps.
 
-## We have created a docker image that you can use. The server uses the Nakama interface and API so you can use the examples to work with the server. You can download the image and run it locally.
-
 ## Docker Image
+We have created a docker image that you can use. The server uses the Nakama interface and API so you can use the examples to work with the server. You can download the image and run it locally.
+
+## Current Docker Image
 Docker Hub: https://hub.docker.com/r/skillzint/nakama
 
 ### Start Docker Contianer
